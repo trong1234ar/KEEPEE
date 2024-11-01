@@ -1,0 +1,4 @@
+/* [OPTIONAL] hide streamlit branding */
+#MainMenu {visibility: visible;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
